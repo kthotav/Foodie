@@ -1,22 +1,35 @@
-<!DOCTYPE html>
-<html>
-<title>Hello Strapdown</title>
+# Foodie
 
-<xmp theme="united" style="display:none;">
-# Markdown text goes in here
+Foodie is a static webpage built using the latest web languages: HTML5 and CSS3. 
 
-## Chapter 1
+<p align="center">
+<img src="https://github.com/kthotav/Foodie/blob/master/screenshots/homepage.png" alt="homepage picture" height="400px">
+</p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. 
+## What skills did I gain?
 
-## Chapter 2
+* Hands on web development with HTML5 and CSS3
+* New HTML5 tags (i.e. section, footer) and CSS3 animations 
+* Web design guidelines
+* Responsive web design
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
-</xmp>
 
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-</html>
+## Built With
+
+* Brackets
+
+
+## Deployment
+
+[A live version on this project is hosted is hosted here!](https://kthotav.github.io/Foodie/)
+
+
+## Authors
+
+* **Venkata Karthik Thota** - [kthotav](https://github.com/kthotav)
+
+## Acknowledgments
+
+* Udemy course on web design
+
+
