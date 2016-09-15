@@ -36,7 +36,7 @@ Foodie is a static webpage built using the latest web languages: HTML5 and CSS3.
 
 ## Deployment
 
-[A live version on this project is hosted is hosted here!](https://kthotav.github.io/Foodie/)  
+[A live version on this project is hosted here!](https://kthotav.github.io/Foodie/)  
 Version: 1.0
 
 
