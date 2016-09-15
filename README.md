@@ -3,7 +3,7 @@
 Foodie is a static webpage built using the latest web languages: HTML5 and CSS3. 
 
 <p align="center">
-<img src="https://github.com/kthotav/Foodie/blob/master/screenshots/homepage.png" alt="homepage picture" height="400px">
+<img src="https://github.com/kthotav/Foodie/blob/master/screenshots/homepage.png" alt="homepage picture" height="300px">
 </p>
 
 ## What skills did I gain?
@@ -21,10 +21,10 @@ Foodie is a static webpage built using the latest web languages: HTML5 and CSS3.
 ## Built With
 
 <p align="center">
-<img src="https://github.com/kthotav/Foodie/blob/master/screenshots/brackets.png" alt="homepage picture" height="100px"> <br>
-<p>Brackets</p>
+<img src="https://github.com/kthotav/Foodie/blob/master/screenshots/brackets.png" alt="homepage picture" height="100px">
 </p>
 
+* Brackets
 
 ## Suporting libraries used
 
