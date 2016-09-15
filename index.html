@@ -2,10 +2,13 @@
 <html lang="en">
     <head>
         
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="vendors/css/normalize.css">
         <link rel="stylesheet" type="text/css" href="vendors/css/grid.css">
         <link rel="stylesheet" type="text/css" href="vendors/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="resources/css/queries.css">
         <link rel="stylesheet" type="text/css" href="resources/css/style.css">
         <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400" rel="stylesheet">
         
@@ -318,68 +321,89 @@
                 <form method="post" action="#" class="contact-form">
                     <div class="row">
                         <div class="col span-1-of-3">
-                            <label form="name">Name</label>
+                            <label for="name">Name</label>
                         </div>
                         <div class="col span-2-of-3">
                             <input type="text" name="name" id="name" placeholder="Your name" required>
-                            
                         </div>
                     </div>
-                     <div class="row">
+                    <div class="row">
                         <div class="col span-1-of-3">
-                            <label form="email">Email</label>
+                            <label for="email">Email</label>
                         </div>
                         <div class="col span-2-of-3">
                             <input type="email" name="email" id="email" placeholder="Your email" required>
-                            
                         </div>
                     </div>
-                     <div class="row">
+                    <div class="row">
                         <div class="col span-1-of-3">
-                            <label form="find-us">How did you find us?</label>
+                            <label for="find-us">How did you find us?</label>
                         </div>
                         <div class="col span-2-of-3">
                             <select name="find-us" id="find-us">
                                 <option value="friends" selected>Friends</option>
-                                <option value="search">Search enginer</option>
-                                <option value="social">Soical Media</option>
+                                <option value="search">Search engine</option>
+                                <option value="ad">Advertisement</option>
                                 <option value="other">Other</option>
                             </select>
                         </div>
                     </div>
-                    
                     <div class="row">
                         <div class="col span-1-of-3">
                             <label>Newsletter?</label>
                         </div>
                         <div class="col span-2-of-3">
-                            <input type="checkbox" name="news" id="new" checked> Yes, please
+                            <input type="checkbox" name="news" id="news" checked> Yes, please
                         </div>
                     </div>
-                    
                     <div class="row">
                         <div class="col span-1-of-3">
-                            <label>Drop us a message</label>
+                            <label>Drop us a line</label>
                         </div>
                         <div class="col span-2-of-3">
                             <textarea name="message" placeholder="Your message"></textarea>
                         </div>
                     </div>
-                    
                     <div class="row">
                         <div class="col span-1-of-3">
                             <label>&nbsp;</label>
                         </div>
                         <div class="col span-2-of-3">
-                            <input type="submit" value="Send it">
+                            <input type="submit" value="Send it!">
                         </div>
                     </div>
-                
+                    
                 </form>
-            
+                
             </div>
-        
         </section>
+        
+        <footer>
+            <div class="row">
+                <div class="col span-1-of-2">
+                    <ul class="footer-nav">
+                        <li><a href="#">About us</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Press</a></li>
+                        <li><a href="#">iOS App</a></li>
+                        <li><a href="#">Android App</a></li>
+                    </ul>
+                </div>
+                <div class="col span-1-of-2">
+                    <ul class="social-links">
+                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <p>
+                    Copyright &copy; 2016 by Foodie. All rights reserved.
+                </p>
+            </div>
+        </footer>
         
     
     
