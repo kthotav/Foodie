@@ -26,7 +26,7 @@ Foodie is a static webpage built using the latest web languages: HTML5 and CSS3.
 
 * Brackets
 
-## Suporting libraries used
+## Supporting libraries used
 
 * Font Awesome for icons
 * Grid.css
